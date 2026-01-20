@@ -1,0 +1,14 @@
+# Composer
+/vendor/
+
+# App
+/app/
+
+# Public
+/public/
+
+# PHPDesktop runtime
+/runtime/
+
+# DB 
+empresa_test.db 
