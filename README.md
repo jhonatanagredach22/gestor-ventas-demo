@@ -29,7 +29,7 @@ Enfocado en crear soluciones escalables y mantenibles con buenas prácticas.
 - MVC (Model-View-Controller)
 
 ### Enfoque arquitectónico
-- Onion
+- Onion Architecture
 
 ### Librerías
 - jQuery 3.7.1
